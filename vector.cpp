@@ -1,3 +1,4 @@
+//Sắp xếp các số có tổng chữ só theo thứ tự tăng dần, nếu tổng chúng bằng nhau thì số lớn hơn sẽ đứng trước số bé hơn
 #include <bits/stdc++.h>
 using namespace std;
 bool cmp (int a, int b)
